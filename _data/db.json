@@ -22,25 +22,11 @@
       "user_email": "peach@netninja.dev"
     },
     {
-      "title": "Teste",
-      "body": "asdsadasdasdasdas",
+      "title": "testing",
+      "body": "bla bla blah",
+      "user_email": "luigi@netninja.dev",
       "priority": "high",
-      "user_email": "mario@netninja.dev",
-      "id": "va5zbUc"
-    },
-    {
-      "title": "asedfasdas",
-      "body": "dasdasdas",
-      "priority": "low",
-      "user_email": "mario@netninja.dev",
-      "id": "I8wxLvX"
-    },
-    {
-      "title": "Clean mess on mario desk",
-      "body": "adasdasdasdasdas",
-      "priority": "medium",
-      "user_email": "mario@netninja.dev",
-      "id": "nOWVnpl"
+      "id": "A-uAAjo"
     }
   ]
 }
